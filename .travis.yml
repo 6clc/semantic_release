@@ -3,7 +3,4 @@ python:
   - 3.5
 
 script:
-  - python pymain.py
-
-after_success:
   - npx semantic-release
