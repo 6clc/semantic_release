@@ -5,4 +5,4 @@ script:
   - python pymain.py
 
 after_success:
-  - npx semantic-release
+  - npm run semantic-release
