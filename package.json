@@ -1,0 +1,14 @@
+{
+  "name": "semantic_release",
+  "version": "0.0.0-development",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/6clc/semantic_release.git"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.3.0"
+  }
+}
