@@ -8,12 +8,3 @@ install:
 
 script:
   - python pymain.py
-
-
-deploy:
-  provider: script
-  skip_cleanup: true
-  on:
-    branch: main
-  script:
-    - npx semantic-release
