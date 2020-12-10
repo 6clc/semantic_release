@@ -3,8 +3,17 @@ language: python
 python:
   - 3.5
 
-install:
-  - npm install
 
 script:
   - python pymain.py
+
+jobs:
+include:
+  # Define the release stage that runs semantic-release
+  - stage: release
+    node_js: lts/*
+    script: npm run build
+    deploy:
+      provider: script
+      script: npx -p @semantic-release/changelog -p @semantic-release/git -p semantic-release semantic-release
+      skip_cleanup: true    # 💡加上這句
