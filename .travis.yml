@@ -1,8 +1,19 @@
 language: python
-env:
-    - NPM_TOKEN="17fda436-db38-41ab-ba24-84fbffa44457"
-    - GH_TOKEN="15bd16ecf6b91f640a5987f4a96d408615cc2026"
+
 python:
   - 3.5
+
+install:
+  - npm install
+
 script:
   - python pymain.py
+
+
+deploy:
+  provider: script
+  skip_cleanup: true
+  on:
+    branch: main
+  script:
+    - npm run release
