@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/6clc/semantic_release/compare/v1.1.0...v1.2.0) (2020-12-11)
+
+
+### Features
+
+* mv node ([396f7a5](https://github.com/6clc/semantic_release/commit/396f7a596a077a198fcfc37ef14e7eaca510b9ab))
+
 # [1.1.0](https://github.com/6clc/semantic_release/compare/v1.0.0...v1.1.0) (2020-12-11)
 
 
