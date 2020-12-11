@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/6clc/semantic_release/compare/v1.0.0...v1.1.0) (2020-12-11)
+
+
+### Features
+
+* no config test ([4864e32](https://github.com/6clc/semantic_release/commit/4864e32b65540285e801077e48ce9819b7c735b7))
+
 # 1.0.0 (2020-12-10)
 
 
