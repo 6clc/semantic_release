@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/6clc/semantic_release/compare/v1.6.0...v1.7.0) (2020-12-15)
+
+
+### Features
+
+* local semantic-release ([3549dfd](https://github.com/6clc/semantic_release/commit/3549dfd7457a702012901dda1cc251f5a3947e33))
+
 # [1.6.0](https://github.com/6clc/semantic_release/compare/v1.5.0...v1.6.0) (2020-12-15)
 
 
