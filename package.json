@@ -1,0 +1,7 @@
+{
+    "name":"semantic_release",
+    "release":{
+        "branches": ["master"],
+        "repository": "https://github.com/6clc/semantic_release.git"
+    }
+}
