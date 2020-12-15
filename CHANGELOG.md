@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/6clc/semantic_release/compare/v1.5.0...v1.6.0) (2020-12-15)
+
+
+### Features
+
+* no release just tag ([796e4a0](https://github.com/6clc/semantic_release/commit/796e4a0132e4901dc2141b8f942618fee9f5b3c4))
+
 # [1.5.0](https://github.com/6clc/semantic_release/compare/v1.4.0...v1.5.0) (2020-12-15)
 
 
