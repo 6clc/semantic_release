@@ -1,3 +1,16 @@
+# [1.8.0](https://github.com/6clc/semantic_release/compare/v1.7.3...v1.8.0) (2020-12-15)
+
+
+### Bug Fixes
+
+* ed 2 ([f69ab5f](https://github.com/6clc/semantic_release/commit/f69ab5f72c1609fc9c82196620aae26f310f7b92))
+* ed1 ([13f8b80](https://github.com/6clc/semantic_release/commit/13f8b8010527651e970170a49f8230dfee6a1a16))
+
+
+### Features
+
+* release branch ([8136209](https://github.com/6clc/semantic_release/commit/813620966f7e1ae77d77ef056944b87e756eadec))
+
 ## [1.7.3](https://github.com/6clc/semantic_release/compare/v1.7.2...v1.7.3) (2020-12-15)
 
 
