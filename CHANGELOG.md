@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/6clc/semantic_release/compare/v1.4.0...v1.5.0) (2020-12-15)
+
+
+### Features
+
+* **readme:** change ([89b4172](https://github.com/6clc/semantic_release/commit/89b41724c039d2e0f9dfdb05baa642767b81a60c))
+
 # [1.4.0](https://github.com/6clc/semantic_release/compare/v1.3.1...v1.4.0) (2020-12-15)
 
 
