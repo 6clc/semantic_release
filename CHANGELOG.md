@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/6clc/semantic_release/compare/v1.7.1...v1.7.2) (2020-12-15)
+
+
+### Bug Fixes
+
+* when change ([14e2119](https://github.com/6clc/semantic_release/commit/14e2119316fff6494ccc55a3db92d7e2404553c2))
+
 ## [1.7.1](https://github.com/6clc/semantic_release/compare/v1.7.0...v1.7.1) (2020-12-15)
 
 
