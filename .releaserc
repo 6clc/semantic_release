@@ -1,5 +1,5 @@
 {
-"branches": ["main"],
+"branches": ["release"],
 "repositoryUrl": "https://github.com/6clc/semantic_release.git",
 "plugins": [
     "@semantic-release/commit-analyzer",
