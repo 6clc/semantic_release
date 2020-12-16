@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/6clc/semantic_release/compare/v1.9.1...v1.9.2) (2020-12-16)
+
+
+### Bug Fixes
+
+* remove npm plugin ([7d21806](https://github.com/6clc/semantic_release/commit/7d21806d658f369892f98b973219a3c753c2c3bc))
+
 ## [1.9.1](https://github.com/6clc/semantic_release/compare/v1.9.0...v1.9.1) (2020-12-16)
 
 
