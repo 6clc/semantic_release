@@ -1,3 +1,17 @@
+# [1.9.0](https://github.com/6clc/semantic_release/compare/v1.8.0...v1.9.0) (2020-12-16)
+
+
+### Bug Fixes
+
+* change branch to main ([e0ee32f](https://github.com/6clc/semantic_release/commit/e0ee32f8055e6bfcca5667d29a8c76a520be6530))
+* merge release ([8428d6b](https://github.com/6clc/semantic_release/commit/8428d6b15c62589ac21c6cd6efcbd08209abb015))
+* up version ([eb5f751](https://github.com/6clc/semantic_release/commit/eb5f7511ec23e7c4257e54aba5e8b7aa110cd8ab))
+
+
+### Features
+
+* wrong npm token ([bc2ef9a](https://github.com/6clc/semantic_release/commit/bc2ef9a6449c4bfbf0f0cb7748da5f919761ba64))
+
 # [1.8.0](https://github.com/6clc/semantic_release/compare/v1.7.3...v1.8.0) (2020-12-15)
 
 
