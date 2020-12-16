@@ -43,6 +43,21 @@
 * release branch ([8136209](https://github.com/6clc/semantic_release/commit/813620966f7e1ae77d77ef056944b87e756eadec))
 * wrong npm token ([bc2ef9a](https://github.com/6clc/semantic_release/commit/bc2ef9a6449c4bfbf0f0cb7748da5f919761ba64))
 
+# [1.8.0](https://github.com/6clc/semantic_release/compare/v1.7.3...v1.8.0) (2020-12-16)
+
+
+### Bug Fixes
+
+* change branch to main ([e0ee32f](https://github.com/6clc/semantic_release/commit/e0ee32f8055e6bfcca5667d29a8c76a520be6530))
+* ed 2 ([f69ab5f](https://github.com/6clc/semantic_release/commit/f69ab5f72c1609fc9c82196620aae26f310f7b92))
+* ed1 ([13f8b80](https://github.com/6clc/semantic_release/commit/13f8b8010527651e970170a49f8230dfee6a1a16))
+
+
+### Features
+
+* release branch ([8136209](https://github.com/6clc/semantic_release/commit/813620966f7e1ae77d77ef056944b87e756eadec))
+* wrong npm token ([bc2ef9a](https://github.com/6clc/semantic_release/commit/bc2ef9a6449c4bfbf0f0cb7748da5f919761ba64))
+
 ## [1.7.3](https://github.com/6clc/semantic_release/compare/v1.7.2...v1.7.3) (2020-12-15)
 
 
