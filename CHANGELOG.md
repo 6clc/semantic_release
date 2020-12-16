@@ -1,3 +1,10 @@
+## [1.9.3](https://github.com/6clc/semantic_release/compare/v1.9.2...v1.9.3) (2020-12-16)
+
+
+### Bug Fixes
+
+* remove plugin to see log ([ef92796](https://github.com/6clc/semantic_release/commit/ef92796b413e5279f255ce657677b32a8d1185b7))
+
 ## [1.9.2](https://github.com/6clc/semantic_release/compare/v1.9.1...v1.9.2) (2020-12-16)
 
 
