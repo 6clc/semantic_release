@@ -12,3 +12,4 @@ test md master 1
 test md master 2
 
 test no npm token
+test no npm token2
