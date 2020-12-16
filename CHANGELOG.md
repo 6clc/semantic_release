@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/6clc/semantic_release/compare/v1.9.0...v1.9.1) (2020-12-16)
+
+
+### Bug Fixes
+
+* no npm token ([9c64077](https://github.com/6clc/semantic_release/commit/9c640778f71d352131f76c3c517a34e856555ffc))
+
 # [1.9.0](https://github.com/6clc/semantic_release/compare/v1.8.0...v1.9.0) (2020-12-16)
 
 
