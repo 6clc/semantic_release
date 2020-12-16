@@ -10,3 +10,5 @@ test when change 2
 
 test md master 1
 test md master 2
+
+test no npm token
