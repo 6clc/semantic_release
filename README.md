@@ -13,4 +13,4 @@ test md master 2
 
 test no npm token
 test no npm token2
-test no npm remove npm plugins
+test no npm remove npm plugins2
